@@ -1,4 +1,4 @@
-# Centos Ruby
+# CentOS Ruby
 A Docker image with the latest version of Ruby built using Rbenv on the latest version of CentOS
 
 Currently those versions are:
